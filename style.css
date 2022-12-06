@@ -1,0 +1,96 @@
+.container {
+    background-color: whitesmoke;
+    width: 1200px;
+    height: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 2.8em;
+    margin-top: 9rem;
+}
+
+.card1 {
+    width: 33%;
+    height: 95%;
+    background-color: #eb7b36;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.card2 {
+    height: 95%;
+    width: 33%;
+    background-color: #346140;
+
+}
+
+.card3 {
+    height: 95%;
+    width: 33%;
+    background-color: #302670;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+p {
+    color: white;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+img {
+    height: 60px;
+    color: black;
+}
+
+.f {
+    font-size: 15px;
+    text-align: left;
+}
+
+.button1 {
+    background-color: white;
+    border: none;
+    color: #eb7b36;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+
+.button2 {
+    background-color: white;
+    border: none;
+    color: #346140;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+
+.button3 {
+    background-color: white;
+    border: none;
+    color: #302670;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+
+.carSvg {
+    height: 53px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
